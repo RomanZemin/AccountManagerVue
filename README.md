@@ -36,7 +36,7 @@ README
 ---------
 
 1.  Клонируйте репозиторий:
-    `git clone <URL_репозитория> 2cd <имя_папки_репозитория>`
+    `git clone https://github.com/RomanZemin/AccountManagerVue.git`
     
 2.  Установите зависимости:  
     `npm install`
